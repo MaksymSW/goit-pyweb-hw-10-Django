@@ -59,6 +59,14 @@ body {
     color: #3677E8;
 }
 
+.quote-line {
+    border: none;
+    height: 3px;
+    background-color: blue;
+    width: 94%;
+    margin-top: -1px;
+}
+
 .tag {
     padding: 2px 5px;
     border-radius: 5px;
