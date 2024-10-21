@@ -1,6 +1,5 @@
 goit-pyweb-hw-10-Django
-Django project
-
+Installation
 https://github.com/MaksymSW/goit-pyweb-hw-10-Django.git
 
 Run
